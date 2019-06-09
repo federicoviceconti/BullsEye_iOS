@@ -35,7 +35,7 @@
 		41D1E99822AD12090082C940 /* AboutAuthorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutAuthorViewController.swift; sourceTree = "<group>"; };
 		41D1E99A22AD2F4F0082C940 /* AboutPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AboutPresenter.swift; path = ../About/AboutPresenter.swift; sourceTree = "<group>"; };
 		41D1E99C22AD2FD60082C940 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AboutView.swift; path = ../About/AboutView.swift; sourceTree = "<group>"; };
-		41D1E99E22AD32D20082C940 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = "../../../../../Downloads/5-06-web-views-and-developer-documentation/BullsEye.html"; sourceTree = "<group>"; };
+		41D1E99E22AD32D20082C940 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
